@@ -1,6 +1,6 @@
 # math-fractions
 
-`math-fractions` is a simple Python project designed to help learners **understand fractions visually and mathematically**. It includes three main functionalities:
+`Math-Fractions` is a simple Python project designed to help learners **understand fractions visually and mathematically**. It includes three main functionalities:
 
 ## 1. Draw a Fraction (`draw_fraction.py`)
 
